@@ -14,9 +14,9 @@ public class ControlVersiones_LudwigDiaz {
         int opcion = 0;
 
         do {
-            System.out.println("\n=== Control de Versiones - Ejemplo ===");
+            System.out.println("\n Uso de Git y GitHub con NetBeans");
             System.out.println("1. Calcular promedio de tres numeros");
-            System.out.println("2. Mostrar informacion del autor");
+            System.out.println("2. Informacion del autor");
             System.out.println("3. Salir");
             System.out.print("Seleccione una opcion: ");
 
